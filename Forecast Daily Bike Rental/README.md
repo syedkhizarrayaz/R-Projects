@@ -53,7 +53,8 @@ These measures assess the accuracy and performance of the model on the training 
 The ARIMA model suggests that daily bike rentals are influenced by autoregressive and moving average components, with a seasonal pattern corresponding to a 365-day cycle. The drift term indicates a long-term trend in the data.
 
 # Bike Rentals Plot
-![Arima Model](https://github.com/syedkhizarrayaz/R-Projects/assets/61557423/5731a05c-9625-4e1f-bc62-eab4e0a97242)
+![Bike Rentals Plot](https://github.com/syedkhizarrayaz/R-Projects/assets/61557423/204b6fc1-b3d2-4270-af58-e510e0208b14)
+
 
 # Bike Rentals Smooth Data Plot
 ![Bike Rentals Smooth Data Plot](https://github.com/syedkhizarrayaz/R-Projects/assets/61557423/1d02c656-0a10-410e-bb7c-ec00aa4961ef)
